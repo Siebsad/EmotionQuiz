@@ -1,4 +1,4 @@
-# EmotionQuiz
+# EmotionQuiz - JavaScript
 
 # The purpose of the Emotion Quiz program is to analyze a user's music preferences and guess the user's emotions based on their taste.
 # The video shows how the user presses start and answers a series of questions in prompt boxes. There are also alert boxes with directions and alert boxes with the output emotion.
